@@ -99,3 +99,8 @@ linux-privesc-toolkit/
 ```bash
 git clone https://github.com/supersecret134/linux-privesc-toolkit.git
 cd linux-privesc-toolkit
+
+
+
+
+
