@@ -100,7 +100,9 @@ linux-privesc-toolkit/
 git clone https://github.com/supersecret134/linux-privesc-toolkit.git
 cd linux-privesc-toolkit
 
+pip install -r requirements.txt
 
+python3 main.py
 
 
 
