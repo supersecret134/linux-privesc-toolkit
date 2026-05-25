@@ -92,3 +92,10 @@ linux-privesc-toolkit/
 ├── screenshots/
 ├── report/
 └── sample_output/
+
+## Usage
+
+### Clone the repository
+```bash
+git clone https://github.com/supersecret134/linux-privesc-toolkit.git
+cd linux-privesc-toolkit
